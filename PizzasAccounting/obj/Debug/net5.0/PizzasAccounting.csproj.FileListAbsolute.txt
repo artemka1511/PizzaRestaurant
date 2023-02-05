@@ -1,0 +1,16 @@
+C:\Users\artem\Desktop\PizzasAccounting\PizzasAccounting\bin\Debug\net5.0\PizzasAccounting.exe
+C:\Users\artem\Desktop\PizzasAccounting\PizzasAccounting\bin\Debug\net5.0\PizzasAccounting.deps.json
+C:\Users\artem\Desktop\PizzasAccounting\PizzasAccounting\bin\Debug\net5.0\PizzasAccounting.runtimeconfig.json
+C:\Users\artem\Desktop\PizzasAccounting\PizzasAccounting\bin\Debug\net5.0\PizzasAccounting.runtimeconfig.dev.json
+C:\Users\artem\Desktop\PizzasAccounting\PizzasAccounting\bin\Debug\net5.0\PizzasAccounting.dll
+C:\Users\artem\Desktop\PizzasAccounting\PizzasAccounting\bin\Debug\net5.0\ref\PizzasAccounting.dll
+C:\Users\artem\Desktop\PizzasAccounting\PizzasAccounting\bin\Debug\net5.0\PizzasAccounting.pdb
+C:\Users\artem\Desktop\PizzasAccounting\PizzasAccounting\obj\Debug\net5.0\PizzasAccounting.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\PizzasAccounting\PizzasAccounting\obj\Debug\net5.0\PizzasAccounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\Desktop\PizzasAccounting\PizzasAccounting\obj\Debug\net5.0\PizzasAccounting.AssemblyInfoInputs.cache
+C:\Users\artem\Desktop\PizzasAccounting\PizzasAccounting\obj\Debug\net5.0\PizzasAccounting.AssemblyInfo.cs
+C:\Users\artem\Desktop\PizzasAccounting\PizzasAccounting\obj\Debug\net5.0\PizzasAccounting.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\PizzasAccounting\PizzasAccounting\obj\Debug\net5.0\PizzasAccounting.dll
+C:\Users\artem\Desktop\PizzasAccounting\PizzasAccounting\obj\Debug\net5.0\ref\PizzasAccounting.dll
+C:\Users\artem\Desktop\PizzasAccounting\PizzasAccounting\obj\Debug\net5.0\PizzasAccounting.pdb
+C:\Users\artem\Desktop\PizzasAccounting\PizzasAccounting\obj\Debug\net5.0\PizzasAccounting.genruntimeconfig.cache

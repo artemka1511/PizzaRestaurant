@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HUQHPBY3XGrYQNEADwtmzdA9aqEdD8pL7Y3aMQQhYjzrMhKMd0HiyrOFmGBW5t/1xB53iSNWCLM3AcxchpevJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artem\\Desktop\\PizzasAccounting\\PizzasAccounting\\PizzasAccounting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
